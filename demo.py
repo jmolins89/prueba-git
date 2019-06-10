@@ -1,1 +1,3 @@
-print ("¡¡¡Hello world!!!!")
+
+a = "Ironhackers"
+print ("hello {}!!!!", format(a))
